@@ -42,3 +42,11 @@ RePlaced se base en partie sur une technologie d'analyse d'images par intelligen
 Vous pouvez installer l'application sur votre appareil Android grâce à l'APK via [le répertoire GitHub](./RePlaced-Website/RePlaced.apk) directement ou via notre [site web RePlaced](http://51.75.142.229:3001/).
 Il suffit ensuite d'ouvrir le fichier sur téléphone via l'explorateur de fichiers, et de le lancer dans `Programme d'intstallation Kit`.
 
+
+
+---
+
+### Personal showcase note
+This repository is a **personal portfolio version** of the RePlaced project, rebuilt from the original academic collaboration.  
+It highlights **my main contributions**: OCR integration, model training, automation scripts, and website integration.  
+Original team repository remains credited.
