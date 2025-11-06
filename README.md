@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-v3.10-blue.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg) ![React Native](https://img.shields.io/badge/-React_Native-05122A?logo=react&style=flat)
 
+> 🇬🇧 The English version of this README is available here: [README_EN.md](./README_EN.md)
 
 **RePlaced** est un projet étudiant, réalisé en quelques semaines, avec pour but de rendre l'accès et la localisation plus simple, et au plus grand monde. Grâce aux APIs OpenData, aux caméras en libre accès, et l'intelligence artificielle, **se garer devient plus simple** !
 
